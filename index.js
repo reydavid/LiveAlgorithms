@@ -27,3 +27,4 @@ function countShtuff(){
   }
   return [words, even, odd];
 }
+//
